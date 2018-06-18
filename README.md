@@ -7,13 +7,13 @@ OpenID Connect Relying Party Bundle
 OpenID Connect Relying Party is an implementation of [OpenID Connect Specification](http://openid.net/specs/openid-connect-basic-1_0.html).
 This Bundle is made for being fully integrated in Symfony2's environnement.
 
-##What next ?
+## What next ?
 
 - [Read the documentation](Resources/doc/index.md)
 
 
 
-#####I would thanks 
+##### I would thanks 
  - [Nomura Research Institute](http://www.nri.com/global/) for their OIC implementation (I tested my code against theirs)
  - [Gree](https://github.com/gree/jose) for is JOSE librairy
  - all the guys behind [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle), because i've learn a lot with their bundle (Nice code by the way !).
